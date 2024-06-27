@@ -1,0 +1,69 @@
+.image-background {
+    display: block;
+    margin: 0 auto;
+    width: 1440px;
+    height: 1024px;
+    background-color: #F2E8E6;
+}
+.image-foto_main {
+    position: relative;
+    display: flex;
+    justify-content:center; 
+    align-self: flex-end;
+}
+.text1{
+    position:absolute;
+    top: 271px;
+    left: 710px;
+}
+.text2{
+    position:absolute;
+    top: 347px;   
+    left: 710px; 
+}
+.PhoneButton{
+    position:absolute;
+    top: 473;
+    color: #D8BAB4;
+    
+}
+.contacts{
+    position: absolute;
+    top: 152px;
+    left: 500px; 
+}
+.address{
+    position: absolute;
+    top: 219px;
+    left: 500px; 
+}
+h1 {
+    color: #000000;
+    font-family: "Cormorant Unicase", serif;
+    font-weight: 500;
+    font-style: normal;
+      
+}
+h2 {
+    color: #000000;
+    line-height:0.5;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+h3 {
+    color: #D8BAB4;
+    line-height:0.5;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+  
